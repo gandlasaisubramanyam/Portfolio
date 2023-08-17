@@ -21,7 +21,7 @@ const Home = () => {
           <button className="flex items-center justify-center w-50 p-4 text-base font-medium text-white bg-pink-500 rounded-md hover:bg-pink-600">
             <a
               href="https://drive.google.com/file/d/1-APmTPpv5SFqaU-a_Gv9cjLsrn_lwuJD/view"
-              download={resume.pdf}
+              download={resume}
               target="_blank"
               rel="noopener noreferrer"
             >
